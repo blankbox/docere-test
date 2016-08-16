@@ -1,0 +1,19 @@
+{
+  "name": "docere-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blankbox/docere-test.git"
+  },
+  "author": "Healthera <tech@healthera.co.uk> (https://github.com/Healthera)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blankbox/docere-test/issues"
+  },
+  "homepage": "https://github.com/blankbox/docere-test#readme"
+}
