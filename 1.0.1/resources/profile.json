@@ -18,7 +18,7 @@
         "allowed": {
           "body": [
             "user_id",
-            "profile_id"
+            "profiles_id"
           ]
         }
       }
