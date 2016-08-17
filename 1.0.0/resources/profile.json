@@ -9,7 +9,8 @@
         "allowed": {
           "body": [
             "forename",
-            "surname"
+            "surname",
+            "other"
           ]
         }
       },
