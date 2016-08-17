@@ -1,0 +1,6 @@
+{
+  "name": "Test API",
+  "version": "1.0.1",
+  "loadResources":
+  ["profile", "token", "user"]
+}
