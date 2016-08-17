@@ -1,6 +1,6 @@
 {
   "name": "Original Test API",
   "version": "1.0.0",
-  "loadResources":
+  "resources":
   ["profile", "token", "user"]
 }
